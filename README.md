@@ -3,21 +3,7 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Svnd3&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=00d4ff&desc=Software%20Engineer%20%7C%20Kenya%20🇰🇪&descAlignY=60&descSize=20&descColor=ffffff" />
 
-</div>
 
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   "Clean architecture. Scalable systems. Shipped products."   ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Svnd3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" />
 
@@ -25,13 +11,13 @@
 
 ```typescript
 const developer = {
-  name:       "Svnd3",
+  name:       "Hezron Sande",
   location:   "Nairobi, Kenya 🌍",
   focus:      ["Full-Stack", "Systems Design", "APIs"],
   languages:  ["TypeScript", "Python", "JavaScript"],
   frontend:   ["React", "HTML5", "CSS3"],
   backend:    ["Flask", "Node.js", "PostgreSQL", "MongoDB"],
-  currently:  "Building things that scale",
+  currently:  "Learning at Moringa school",
   available:  true  // open to opportunities
 };
 ```
@@ -95,9 +81,9 @@ const developer = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hezronsande2@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/svnd3)
+
 
 </div>
 
