@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Svnd3">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+SVND3+%F0%9F%91%8B;Software+Engineer+in+the+Making;Student+%40+Moringa+School;Building+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+SVND3+%F0%9F%91%8B;Software+Engineer+in+the+Making;Student+%40+Moringa+School" alt="Typing SVG" />
 </a>
 
 </div>
@@ -88,12 +88,6 @@
 ---
 
 <!-- CONNECT -->
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1b2838,100:0a0a0f&height=100&section=footer" />
-
-</div>
 ### `> cat ./connect.json`
 
 <div align="center">
