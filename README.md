@@ -22,9 +22,8 @@
 ```ts
 const hezron = {
   name:       "Hezron Sande",
-  alias:      "SVND3",
-  role:       "Student Software Engineer",
-  school:     "Moringa School, Nairobi 🇰🇪",
+  role:       "oftware Engineering Student",
+  school:     "Moringa School, Nairobi ",
   learning:   "Full-Stack Web Development",
   openTo:     ["Internships", "Collabs", "Open Source"],
   funFact:    "I debug faster with lo-fi music on 🎧",
@@ -111,23 +110,6 @@ const hezron = {
 
 ### `cat ./contact.json`
 
-<div align="center">
-
-```json
-{
-  "email":     "hezronsande2@gmail.com",
-  "linkedin":  "linkedin.com/in/YOUR_LINKEDIN",
-  "instagram": "@svnd3",
-  "status":    "✅ Open to internships & collaborations"
-}
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hezronsande2@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/svnd3)
-
-</div>
-
 ---
 
 <div align="center">
@@ -139,5 +121,26 @@ const hezron = {
 <br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1b2838,100:0a0a0f&height=100&section=footer" />
+
+</div>
+### `> cat ./connect.json`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/svnd3)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hezronsande2@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/svnd3)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Svnd3&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=100&section=footer" />
 
 </div>
