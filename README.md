@@ -14,25 +14,6 @@
 
 ---
 
-<!-- ABOUT SECTION -->
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Svnd3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&count_private=true&rank_icon=github" />
-
-### `whoami`
-
-```ts
-const hezron = {
-  name:       "Hezron Sande",
-  role:       "oftware Engineering Student",
-  school:     "Moringa School, Nairobi ",
-  learning:   "Full-Stack Web Development",
-  openTo:     ["Internships", "Collabs", "Open Source"],
-  funFact:    "I debug faster with lo-fi music on 🎧",
-};
-```
-
-<br clear="right"/>
-
----
 
 <!-- SKILLS -->
 
@@ -108,16 +89,6 @@ const hezron = {
 
 <!-- CONNECT -->
 
-### `cat ./contact.json`
-
----
-
-<div align="center">
-
-*"Every expert was once a beginner. Every pro was once an amateur."*
-
-<img src="https://komarev.com/ghpvc/?username=Svnd3&color=64ffda&style=flat-square&label=Profile+Views" />
-
 <br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1b2838,100:0a0a0f&height=100&section=footer" />
@@ -138,6 +109,8 @@ const hezron = {
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Svnd3&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" />
+
+*"Every expert was once a beginner. Every pro was once an amateur."*
 
 <br/><br/>
 
