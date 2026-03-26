@@ -3,10 +3,7 @@
 <!-- HERO BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,70:1b2838,100:0a192f&height=220&section=header&text=Hezron%20Sande&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=64ffda&desc=Software%20Engineer%20%E2%80%94%20Nairobi%2C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=62&descSize=18&descColor=ccd6f6" />
 
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/Svnd3">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+SVND3+%F0%9F%91%8B;Software+Engineer+in+the+Making;Student+%40+Moringa+School" alt="Typing SVG" />
-</a>
+
 
 </div>
 
