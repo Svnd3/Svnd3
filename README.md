@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- HERO BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,70:1b2838,100:0a192f&height=220&section=header&text=Hezron%20Sande&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=64ffda&desc=Software%20Engineer%20%E2%80%94%20Nairobi%2C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=62&descSize=18&descColor=ccd6f6" />
-
-
 
 </div>
 
@@ -11,62 +8,75 @@
 
 ---
 
+### `tech_stack --current`
 
-<!-- SKILLS -->
-
-### `tech_stack --current && --roadmap`
-
-#### ✅ Current Skills — *What I can build with today*
+#### ✅ What I build with
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-#### 🛣️ Roadmap — *The full-stack path I'm on*
+#### 🛣️ Roadmap — *currently learning*
 
-**Frontend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Databases**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
 > 💡 *Flat badges = still learning. I keep this honest.*
 
 ---
 
-<!-- GITHUB STATS -->
+### `ls ./projects`
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**[ShareIt](https://shareitt.xyz)**
+
+Cost-sharing platform for subscriptions. Split streaming, tools, and services with people you trust.
+
+`React` `Node.js` `Supabase`
+
+</td>
+<td width="33%" align="center">
+
+**[AzaniSys](https://azanisys.vercel.app)**
+
+KCSE learning platform. Students can buy past projects or request a personal tutor.
+
+`React` `REST API` `Supabase`
+
+</td>
+<td width="33%" align="center">
+
+**[Sandé Apartments](https://sandeappartments.vercel.app)**
+
+Clean rental listing site for a Nairobi apartment property.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+---
 
 ### `git log --stats`
 
@@ -84,14 +94,13 @@
 
 ---
 
-<!-- CONNECT -->
 ### `> cat ./connect.json`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/svnd3)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hezronsande2@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/svnd3)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_svnd3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-64ffda?style=for-the-badge&logo=vercel&logoColor=black)](https://hezronsande.vercel.app)
 
 </div>
 
