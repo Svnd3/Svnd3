@@ -1,18 +1,6 @@
 <div align="center">
 
-<table><tr><td align="center" bgcolor="#ffffff" style="padding:24px 32px;border-radius:16px;">
-
-<!-- Row 1: current stack -->
-<img src="https://skillicons.dev/icons?i=html,css,js,py,react,tailwind,nodejs,supabase,git,vscode&perline=10&theme=light" />
-
-<br/>
-
-<!-- Row 2: tools + learning -->
-<img src="https://skillicons.dev/icons?i=netlify,vercel,nextjs,postgres,mongodb,docker,githubactions,aws&perline=10&theme=light" />
-&nbsp;
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
-
-</td></tr></table>
+<img src="https://raw.githubusercontent.com/Svnd3/Svnd3/main/techstack.png" width="100%" alt="Tech Stack" />
 
 </div>
 
