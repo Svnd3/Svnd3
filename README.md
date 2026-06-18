@@ -8,41 +8,41 @@
 
 **Languages**
 
-![HTML5](https://readme-components.vercel.app/api?component=logo&logo=html5)
-![CSS3](https://readme-components.vercel.app/api?component=logo&logo=css3)
-![JavaScript](https://readme-components.vercel.app/api?component=logo&logo=javascript)
-![Python](https://readme-components.vercel.app/api?component=logo&logo=python)
+![HTML5](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=1a1a1a)
+![CSS3](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=1a1a1a)
+![JavaScript](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=1a1a1a)
+![Python](https://readme-components.vercel.app/api?component=logo&logo=python&fill=1a1a1a)
 
 **Frontend**
 
-![React](https://readme-components.vercel.app/api?component=logo&logo=react)
-![Tailwind CSS](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss)
-![GSAP](https://readme-components.vercel.app/api?component=logo&logo=greensock)
+![React](https://readme-components.vercel.app/api?component=logo&logo=react&fill=1a1a1a)
+![Tailwind CSS](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&fill=1a1a1a)
+![GSAP](https://readme-components.vercel.app/api?component=logo&logo=greensock&fill=1a1a1a)
 
 **Backend & APIs**
 
-![Node.js](https://readme-components.vercel.app/api?component=logo&logo=nodedotjs)
-![REST APIs](https://readme-components.vercel.app/api?component=logo&logo=🔌&desc=REST%20APIs)
-![M-Pesa](https://readme-components.vercel.app/api?component=logo&logo=📱&desc=M-Pesa)
+![Node.js](https://readme-components.vercel.app/api?component=logo&logo=nodejs&fill=1a1a1a)
+![REST APIs](https://readme-components.vercel.app/api?component=logo&logo=🔌&desc=REST%20APIs&fill=1a1a1a)
+![M-Pesa](https://readme-components.vercel.app/api?component=logo&logo=📱&desc=M-Pesa&fill=1a1a1a)
 
 **DevOps & Tools**
 
-![Git](https://readme-components.vercel.app/api?component=logo&logo=git)
-![Docker](https://readme-components.vercel.app/api?component=logo&logo=docker)
-![Linux](https://readme-components.vercel.app/api?component=logo&logo=linux)
-![VS Code](https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode)
-![Netlify](https://readme-components.vercel.app/api?component=logo&logo=netlify)
-![Vercel](https://readme-components.vercel.app/api?component=logo&logo=vercel)
+![Git](https://readme-components.vercel.app/api?component=logo&logo=git&fill=1a1a1a)
+![Docker](https://readme-components.vercel.app/api?component=logo&logo=docker&fill=1a1a1a)
+![Linux](https://readme-components.vercel.app/api?component=logo&logo=linux&fill=1a1a1a)
+![VS Code](https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&fill=1a1a1a)
+![Netlify](https://readme-components.vercel.app/api?component=logo&logo=netlify&fill=1a1a1a)
+![Vercel](https://readme-components.vercel.app/api?component=logo&logo=vercel&fill=1a1a1a)
 
 ---
 
 ## 🛣️ Roadmap — *currently learning*
 
-![Next.js](https://readme-components.vercel.app/api?component=logo&logo=nextdotjs)
-![PostgreSQL](https://readme-components.vercel.app/api?component=logo&logo=postgresql)
-![MongoDB](https://readme-components.vercel.app/api?component=logo&logo=mongodb)
-![GitHub Actions](https://readme-components.vercel.app/api?component=logo&logo=githubactions)
-![AWS](https://readme-components.vercel.app/api?component=logo&logo=amazonwebservices)
+![Next.js](https://readme-components.vercel.app/api?component=logo&logo=nextjs&fill=1a1a1a)
+![PostgreSQL](https://readme-components.vercel.app/api?component=logo&logo=postgresql&fill=1a1a1a)
+![MongoDB](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=1a1a1a)
+![GitHub Actions](https://readme-components.vercel.app/api?component=logo&logo=githubactions&fill=1a1a1a)
+![AWS](https://readme-components.vercel.app/api?component=logo&logo=amazonaws&fill=1a1a1a)
 
 ---
 
