@@ -1,9 +1,18 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Segoe+Print&size=14&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Software+Engineer+%E2%80%94+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA" />
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+Print&size=14&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Software+Engineer+%E2%80%94+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA" />
-</picture>
+<table><tr><td align="center" bgcolor="#ffffff" style="padding:24px 32px;border-radius:16px;">
+
+<!-- Row 1: current stack -->
+<img src="https://skillicons.dev/icons?i=html,css,js,py,react,tailwind,nodejs,supabase,git,vscode&perline=10&theme=light" />
+
+<br/>
+
+<!-- Row 2: tools + learning -->
+<img src="https://skillicons.dev/icons?i=netlify,vercel,nextjs,postgres,mongodb,docker,githubactions,aws&perline=10&theme=light" />
+&nbsp;
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
+
+</td></tr></table>
 
 </div>
 
@@ -17,7 +26,7 @@
 
 **Frontend**
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtmeTdqOGh3aGlwMWo1ZjN4NHVzODhib3FzbW9jYmhleHVxeXkyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="48" alt="React spinning" />&nbsp;<img src="https://skillicons.dev/icons?i=tailwind&theme=light" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtmeTdqOGh3aGlwMWo1ZjN4NHVzODhib3FzbW9jYmhleHVxeXkyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="48" alt="React" />&nbsp;<img src="https://skillicons.dev/icons?i=tailwind&theme=light" />
 
 **Backend & APIs**
 
