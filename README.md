@@ -70,7 +70,7 @@ Cost-sharing platform for subscriptions.<br/>Split streaming, tools, and service
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Svnd3&show_icons=true&hide_border=true&rank_icon=github&bg_color=F2F2F2&title_color=0E7C6B&icon_color=0E7C6B&text_color=24292F" />
- <img height="180em" src="https://streak-stats.demolab.com/?user=Svnd3&hide_border=true&background=F2F2F2&stroke=DADADA&ring=0E7C6B&fire=FF6B35&currStreakNum=24292F&currStreakLabel=0E7C6B&sideNums=1F6FEB&sideLabels=24292F&dates=57606A" />
+ <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Svnd3&hide_border=true&background=F2F2F2&stroke=DADADA&ring=0E7C6B&fire=FF6B35&currStreakNum=24292F&currStreakLabel=0E7C6B&sideNums=1F6FEB&sideLabels=24292F&dates=57606A" />
 </div>
 
 <div align="center">
