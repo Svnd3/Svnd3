@@ -69,11 +69,16 @@ Cost-sharing platform for subscriptions.<br/>Split streaming, tools, and service
 ### `git log --stats`
 
 <div align="center">
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Svnd3&theme=github-dark-blue&hide_border=true&background=0a192f&stroke=64ffda&ring=64ffda&fire=ff6b35&currStreakLabel=ccd6f6&sideLabels=ccd6f6&dates=8892b0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Svnd3&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Svnd3&theme=github-dark-blue&hide_border=true&background=0a192f&stroke=64ffda&ring=64ffda&fire=ff6b35&currStreakLabel=ccd6f6&sideLabels=ccd6f6&dates=8892b0" />
 </div>
 
 <div align="center">
-  <img width="72%" src="https://github-readme-activity-graph.vercel.app/graph?username=Svnd3&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=0d2137&hide_border=true&radius=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Svnd3&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
+</div>
+
+<div align="center">
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Svnd3&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=0d2137&hide_border=true&radius=8" />
 </div>
 
 ---
