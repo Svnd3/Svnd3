@@ -1,46 +1,39 @@
 <div align="center">
 
-<h1>Hezron Sande</h1>
-<p><i>Software Engineer — Nairobi, Kenya 🇰🇪</i></p>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,py,react,tailwind,nodejs,git,vscode,supabase,netlify,vercel&perline=6" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Segoe+Print&size=14&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Software+Engineer+%E2%80%94+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+Print&size=14&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Software+Engineer+%E2%80%94+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA" />
+</picture>
 
 </div>
 
 ---
 
-### `tech_stack --current`
+## 🛠️ Tech Stack
 
-#### ✅ What I build with
+**Languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,py&perline=8&theme=light" />
 
-#### 🛠️ What I build with (tools)
+**Frontend**
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtmeTdqOGh3aGlwMWo1ZjN4NHVzODhib3FzbW9jYmhleHVxeXkyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="48" alt="React spinning" />&nbsp;<img src="https://skillicons.dev/icons?i=tailwind&theme=light" />
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase&perline=8&theme=light" />
+
+**Work Environment**
+
+<img src="https://skillicons.dev/icons?i=git,vscode,netlify,vercel&perline=8&theme=light" />
 
 ---
 
-#### 🛣️ Roadmap — *currently learning*
+## 🛣️ Roadmap — *currently learning*
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,postgres,mongodb,docker,githubactions,aws&perline=8&theme=light" />
+
+&nbsp;&nbsp;&nbsp;![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
 ---
 
