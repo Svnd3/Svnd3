@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Svnd3/Svnd3/main/techstack.png" width="100%" alt="Tech Stack" />
-
+  <img src="https://raw.githubusercontent.com/Svnd3/Svnd3/main/techstack.png" width="100%" alt="Tech Stack" />
 </div>
 
 ---
@@ -10,35 +8,50 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,py&perline=8&theme=light" />
+![HTML5](https://readme-components.vercel.app/api?component=logo&logo=html5)
+![CSS3](https://readme-components.vercel.app/api?component=logo&logo=css3)
+![JavaScript](https://readme-components.vercel.app/api?component=logo&logo=javascript)
+![Python](https://readme-components.vercel.app/api?component=logo&logo=python)
 
 **Frontend**
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtmeTdqOGh3aGlwMWo1ZjN4NHVzODhib3FzbW9jYmhleHVxeXkyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="48" alt="React" />&nbsp;<img src="https://skillicons.dev/icons?i=tailwind&theme=light" />&nbsp;&nbsp;![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![React](https://readme-components.vercel.app/api?component=logo&logo=react)
+![Tailwind CSS](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss)
+![GSAP](https://readme-components.vercel.app/api?component=logo&logo=greensock)
 
 **Backend & APIs**
 
-<img src="https://skillicons.dev/icons?i=nodejs&theme=light" />&nbsp;&nbsp;![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;![M-Pesa](https://img.shields.io/badge/M--Pesa-00A651?style=for-the-badge&logo=mpesa&logoColor=white)
+![Node.js](https://readme-components.vercel.app/api?component=logo&logo=nodedotjs)
+![REST APIs](https://readme-components.vercel.app/api?component=logo&logo=🔌&desc=REST%20APIs)
+![M-Pesa](https://readme-components.vercel.app/api?component=logo&logo=📱&desc=M-Pesa)
 
 **DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,netlify,vercel&perline=8&theme=light" />
+![Git](https://readme-components.vercel.app/api?component=logo&logo=git)
+![Docker](https://readme-components.vercel.app/api?component=logo&logo=docker)
+![Linux](https://readme-components.vercel.app/api?component=logo&logo=linux)
+![VS Code](https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode)
+![Netlify](https://readme-components.vercel.app/api?component=logo&logo=netlify)
+![Vercel](https://readme-components.vercel.app/api?component=logo&logo=vercel)
 
 ---
 
 ## 🛣️ Roadmap — *currently learning*
 
-<img src="https://skillicons.dev/icons?i=nextjs,postgres,mongodb,githubactions,aws&perline=8&theme=light" />
+![Next.js](https://readme-components.vercel.app/api?component=logo&logo=nextdotjs)
+![PostgreSQL](https://readme-components.vercel.app/api?component=logo&logo=postgresql)
+![MongoDB](https://readme-components.vercel.app/api?component=logo&logo=mongodb)
+![GitHub Actions](https://readme-components.vercel.app/api?component=logo&logo=githubactions)
+![AWS](https://readme-components.vercel.app/api?component=logo&logo=amazonwebservices)
 
 ---
 
 ### `ls ./projects`
 
 <div align="center">
-
-<table>
-<tr>
-<td width="60%" align="center">
+  <table>
+    <tr>
+      <td width="60%" align="center">
 
 **[ShareIt](https://shareitt.xyz)**
 
@@ -47,9 +60,8 @@ Cost-sharing platform for subscriptions.<br/>Split streaming, tools, and service
 `React` · `Node.js` · `Supabase`
 
 </td>
-</tr>
-</table>
-
+    </tr>
+  </table>
 </div>
 
 ---
@@ -57,13 +69,11 @@ Cost-sharing platform for subscriptions.<br/>Split streaming, tools, and service
 ### `git log --stats`
 
 <div align="center">
-
-<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Svnd3&theme=github-dark-blue&hide_border=true&background=0a192f&stroke=64ffda&ring=64ffda&fire=ff6b35&currStreakLabel=ccd6f6&sideLabels=ccd6f6&dates=8892b0"/>
-
+  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Svnd3&theme=github-dark-blue&hide_border=true&background=0a192f&stroke=64ffda&ring=64ffda&fire=ff6b35&currStreakLabel=ccd6f6&sideLabels=ccd6f6&dates=8892b0"/>
 </div>
 
 <div align="center">
-<img width="72%" src="https://github-readme-activity-graph.vercel.app/graph?username=Svnd3&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=0d2137&hide_border=true&radius=8"/>
+  <img width="72%" src="https://github-readme-activity-graph.vercel.app/graph?username=Svnd3&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=0d2137&hide_border=true&radius=8"/>
 </div>
 
 ---
@@ -73,7 +83,6 @@ Cost-sharing platform for subscriptions.<br/>Split streaming, tools, and service
 <div align="center">
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hezronsande)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hezronsande2@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_svnd3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-64ffda?style=for-the-badge&logo=vercel&logoColor=black)](https://hezronsande.com)
