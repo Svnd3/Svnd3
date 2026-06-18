@@ -14,23 +14,21 @@
 
 **Frontend**
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtmeTdqOGh3aGlwMWo1ZjN4NHVzODhib3FzbW9jYmhleHVxeXkyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="48" alt="React" />&nbsp;<img src="https://skillicons.dev/icons?i=tailwind&theme=light" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtmeTdqOGh3aGlwMWo1ZjN4NHVzODhib3FzbW9jYmhleHVxeXkyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="48" alt="React" />&nbsp;<img src="https://skillicons.dev/icons?i=tailwind&theme=light" />&nbsp;&nbsp;![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
 **Backend & APIs**
 
-<img src="https://skillicons.dev/icons?i=nodejs,supabase&perline=8&theme=light" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=light" />&nbsp;&nbsp;![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;![M-Pesa](https://img.shields.io/badge/M--Pesa-00A651?style=for-the-badge&logo=mpesa&logoColor=white)
 
-**Work Environment**
+**DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=git,vscode,netlify,vercel&perline=8&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,netlify,vercel&perline=8&theme=light" />
 
 ---
 
 ## 🛣️ Roadmap — *currently learning*
 
-<img src="https://skillicons.dev/icons?i=nextjs,postgres,mongodb,docker,githubactions,aws&perline=8&theme=light" />
-
-&nbsp;&nbsp;&nbsp;![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+<img src="https://skillicons.dev/icons?i=nextjs,postgres,mongodb,githubactions,aws&perline=8&theme=light" />
 
 ---
 
