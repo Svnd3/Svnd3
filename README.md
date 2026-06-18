@@ -21,7 +21,7 @@
 
 **Backend & APIs**
 
-![Node.js](https://readme-components.vercel.app/api?component=logo&logo=nodejs&fill=1a1a1a&textfill=339933)
+![Node.js](https://readme-components.vercel.app/api?component=logo&logo=🟢&desc=Node.js&fill=1a1a1a&textfill=339933)
 ![REST APIs](https://readme-components.vercel.app/api?component=logo&logo=🔌&desc=REST%20APIs&fill=1a1a1a)
 ![M-Pesa](https://readme-components.vercel.app/api?component=logo&logo=📱&desc=M-Pesa&fill=1a1a1a&textfill=00A651)
 
@@ -38,15 +38,11 @@
 
 ## 🛣️ Roadmap — *currently learning*
 
-![Next.js](https://readme-components.vercel.app/api?component=logo&logo=nextjs&fill=1a1a1a&textfill=FFFFFF)
+![Next.js](https://readme-components.vercel.app/api?component=logo&logo=🔺&desc=Next.js&fill=1a1a1a&textfill=FFFFFF)
 ![PostgreSQL](https://readme-components.vercel.app/api?component=logo&logo=postgresql&fill=1a1a1a&textfill=4169E1)
 ![MongoDB](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=1a1a1a&textfill=47A248)
 ![GitHub Actions](https://readme-components.vercel.app/api?component=logo&logo=githubactions&fill=1a1a1a&textfill=2088FF)
 ![AWS](https://readme-components.vercel.app/api?component=logo&logo=amazonaws&fill=1a1a1a&textfill=FF9900)
-
-<!-- React with label instead of spinning icon-only — use this line in place of the spin one above if you prefer the text:
-![React](https://readme-components.vercel.app/api?component=logo&logo=react&fill=1a1a1a&textfill=61DAFB)
--->
 
 ---
 
