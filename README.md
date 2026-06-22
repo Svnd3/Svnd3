@@ -87,7 +87,7 @@ Cost-sharing platform for subscriptions.<br/>Split streaming, tools, and service
 
 <div align="center">
 
-[![Buy Me A Soda](https://img.shields.io/badge/Buy%20Me%20a%20Soda-FF5722?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymesoda.com/dIh6RLbuf9h9H6KFa9wvgu65nrj1)
+[![Buy Me A Soda](https://img.shields.io/badge/Buy%20Me%20a%20Soda-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymesoda.com/dIh6RLbuf9h9H6KFa9wvgu65nrj1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hezronsande2@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_svnd3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-64ffda?style=for-the-badge&logo=vercel&logoColor=black)](https://hezronsande.com)
