@@ -8,41 +8,51 @@
 
 **Languages**
 
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=html5&fill=1a1a1a&textfill=E34F26" />
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=css3&fill=1a1a1a&textfill=1572B6" />
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=1a1a1a&textfill=F7DF1E" />
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=python&fill=1a1a1a&textfill=3776AB" />
+<div align="left">
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=html5&fill=1a1a1a&textfill=E34F26" />
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=css3&fill=1a1a1a&textfill=1572B6" />
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=1a1a1a&textfill=F7DF1E" />
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=python&fill=1a1a1a&textfill=3776AB" />
+</div>
 
 **Frontend**
 
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=react&fill=1a1a1a&textfill=61DAFB&text=false&animation=spin" />
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&fill=1a1a1a&textfill=06B6D4" />
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=greensock&fill=1a1a1a&textfill=88CE02" />
+<div align="left">
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=react&fill=1a1a1a&textfill=61DAFB&text=false&animation=spin" />
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&fill=1a1a1a&textfill=06B6D4" />
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=greensock&fill=1a1a1a&textfill=88CE02" />
+</div>
 
 **Backend & APIs**
 
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=🟢&desc=Node.js&fill=1a1a1a&textfill=339933" />
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=🔌&desc=REST%20APIs&fill=1a1a1a" />
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=📱&desc=M-Pesa&fill=1a1a1a&textfill=00A651" />
+<div align="left">
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=🟢&desc=Node.js&fill=1a1a1a&textfill=339933" />
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=🔌&desc=REST%20APIs&fill=1a1a1a" />
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=📱&desc=M-Pesa&fill=1a1a1a&textfill=00A651" />
+</div>
 
 **DevOps & Tools**
 
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=git&fill=1a1a1a&textfill=F05032" />
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=docker&fill=1a1a1a&textfill=2496ED" />
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=linux&fill=1a1a1a&textfill=FCC624" />
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&fill=1a1a1a&textfill=007ACC" />
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=netlify&fill=1a1a1a&textfill=00C7B7" />
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=vercel&fill=1a1a1a&textfill=FFFFFF" />
+<div align="left">
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=git&fill=1a1a1a&textfill=F05032" />
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=docker&fill=1a1a1a&textfill=2496ED" />
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=linux&fill=1a1a1a&textfill=FCC624" />
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&fill=1a1a1a&textfill=007ACC" />
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=netlify&fill=1a1a1a&textfill=00C7B7" />
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=vercel&fill=1a1a1a&textfill=FFFFFF" />
+</div>
 
 ---
 
 ## 🛣️ Roadmap — *currently learning*
 
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=🔺&desc=Next.js&fill=1a1a1a&textfill=FFFFFF" />
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&fill=1a1a1a&textfill=4169E1" />
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=1a1a1a&textfill=47A248" />
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=githubactions&fill=1a1a1a&textfill=2088FF" />
-<img height="28" src="https://readme-components.vercel.app/api?component=logo&logo=amazonaws&fill=1a1a1a&textfill=FF9900" />
+<div align="left">
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=🔺&desc=Next.js&fill=1a1a1a&textfill=FFFFFF" />
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&fill=1a1a1a&textfill=4169E1" />
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=1a1a1a&textfill=47A248" />
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=githubactions&fill=1a1a1a&textfill=2088FF" />
+  <img height="40" src="https://readme-components.vercel.app/api?component=logo&logo=amazonaws&fill=1a1a1a&textfill=FF9900" />
+</div>
 
 ---
 
